@@ -2,13 +2,14 @@
 
 ### App Description
 
-`TODO://` Add app description
+`TODO://` An introduction app to help tell others about yourself (Name, school, year, etc.)
 
 ### App Walk-though
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="![iosPrework](https://github.com/VGBNDGRL/CodePathPreWork/assets/23413346/e207315a-43da-499a-a942-6586fdddb84c)" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
